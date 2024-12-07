@@ -1,0 +1,18 @@
+﻿Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Due date,Votes,Description,Environment,Watchers,Watchers Id,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Outward issue link (Blocks),Attachment,Custom field (Actual end),Custom field (Actual start),Custom field (Change reason),Custom field (Change risk),Custom field (Change type),Custom field (Development),Custom field (Epic Color),Custom field (Epic Name),Custom field (Epic Status),Custom field (Flagged),Custom field (Goals),Custom field (Impact),Custom field (Issue color),Custom field (Locked forms),Custom field (Open forms),Custom field (Project overview key),Custom field (Project overview status),Custom field (Rank),Custom field (Request Type),Custom field (Sentiment),Sprint,Custom field (Start date),Custom field (Story Points),Custom field (Story point estimate),Custom field (Submitted forms),Custom field (Target end),Custom field (Target start),Custom field (Team),Custom field (Total forms),Custom field (Vulnerability),Custom field ([CHART] Date of First Response),Custom field ([CHART] Time in Status),Status Category,Status Category Changed
+Cart : User cannot delete item from cart by changing quantity to 0,QA2-8,10016,Bug,To Do,QA2,QA Project 2,software,Richard Kriheli,712020:04be34d0-6533-4009-ade6-a21102e6f315,,Medium,,,,Richard Kriheli,712020:04be34d0-6533-4009-ade6-a21102e6f315,Richard Kriheli,712020:04be34d0-6533-4009-ade6-a21102e6f315,06/Dec/24 6:27 PM,06/Dec/24 6:41 PM,06/Dec/24 6:43 PM,,,0,"*Steps to reproduce:*
+
+# Go to website url : [https://malathip.com/|https://malathip.com/|smart-link] 
+# Go to shopping section
+# Add any item to cart
+# Go to cart
+# Change quantity to 0
+
+*Result:*
+
+Item isn’t removed from cart - I get an error message/alert
+
+!Screenshot 2024-12-06 at 6.24.21 PM.jpg|width=1008,height=418,alt=""Screenshot 2024-12-06 at 6.24.21 PM.jpg""!
+
+*Expected Result:*
+
+Criteria suggests item should be removed from cart.",,Richard Kriheli,712020:04be34d0-6533-4009-ade6-a21102e6f315,,,,,,,,,QA2-2,06/Dec/24 6:27 PM;c6a84e3d-b181-47aa-9938-781a4f6a9066;Screenshot 2024-12-06 at 6.24.21 PM.jpg;https://codingtemple.atlassian.net/rest/api/3/attachment/content/10001,,,,,,,,,,Impediment,,,,,,,,0|i0002f:,,,QA2 Sprint 1,,,,,,,,,,,,To Do,06/Dec/24 6:27 PM
