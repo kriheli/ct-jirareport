@@ -23,5 +23,7 @@ It is set up as a 2 week sprint
 One items is currently in testing
 The board measures how the sprint work is currently progressing.
 
+For students to use / not copy.
+
 
 
